@@ -1,2 +1,2 @@
 # cypress-testes
-cypress-testes-cadastra-usuario
+cypress-testes
